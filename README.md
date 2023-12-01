@@ -1,5 +1,5 @@
 # CFG-Data-Group6
-This is the collaborative work of Amy-Louise Snelling, Cherelle Brigden, Louise Wright, Katrina Rogala and Jemma John. We have completed a data analysis to shed light on external factors of internet pentration across the world. 
+This is the collaborative work of Amy-Louise Snelling, Cherelle Brigden, Jemma John, Katrina Rogala, and Louise Wright. We have completed a data analysis to shed light on external factors of internet penetration across the world. 
 ## Project Information
 
 ## Tools and Technologies
