@@ -1,7 +1,7 @@
 # CFG-Data-Group6
 This is the collaborative work of Amy-Louise Snelling, Cherelle Brigden, Jemma John, Katrina Rogala, and Louise Wright. We have completed a data analysis to shed light on socio-economic benefits of access to internet across the world. 
 
-## Implmenetation Guide
+## Implemenetation Guide
 ![Screenshot 2023-12-17 at 12 45 52 (2)](https://github.com/jemmaj24/CFG-Data-Group6/assets/31040598/95b2b4d0-df88-45ea-8320-1dc70440465a)
 
 As shown in the diagram above the steps for implmeneting the code is as follows:
@@ -39,4 +39,4 @@ Datasets in the data.zip folder:
 - idea_export_voter_turnout_database_world.xlsx - Voter Turnout
 - any_name_to_wb_name.csv - matching country names to World Bank spelling of the names
 - iso3_to_wb_name.csv - matching world bank country names to ISO codes
-
+- cost_of_living.csv - Prices of cost of living for comparing internet prices
