@@ -4,7 +4,9 @@ This is the collaborative work of Amy-Louise Snelling, Cherelle Brigden, Jemma J
 Our project activity log can be viewed using the following link
 https://docs.google.com/spreadsheets/d/1nn2Xg-Y7xPMB77NMVg1fhtxZMOQv3TZWZ2Eqxnefn9Y/edit?usp=sharing
 
-Final report uploaded as PDF
+Our Project KANBAN board can be seen linked to our github repo.
+
+Final report uploaded as PDF.
 
 ## Implemenetation Guide
 ![Screenshot 2023-12-17 at 16 07 29 (2)](https://github.com/jemmaj24/CFG-Data-Group6/assets/31040598/942dce42-38aa-41c2-81fc-5b0465f2d6f7)
