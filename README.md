@@ -40,3 +40,4 @@ Datasets in the data.zip folder:
 - any_name_to_wb_name.csv - matching country names to World Bank spelling of the names
 - iso3_to_wb_name.csv - matching world bank country names to ISO codes
 - cost_of_living.csv - Prices of cost of living for comparing internet prices
+- protester_violence.csv
