@@ -1,6 +1,9 @@
 # CFG-Data-Group6
 This is the collaborative work of Amy-Louise Snelling, Cherelle Brigden, Jemma John, Katrina Rogala, and Louise Wright. We have completed a data analysis to shed light on socio-economic benefits of access to internet across the world. 
 
+Our project activity log can be viewed using the following link
+https://docs.google.com/spreadsheets/d/1nn2Xg-Y7xPMB77NMVg1fhtxZMOQv3TZWZ2Eqxnefn9Y/edit?usp=sharing
+
 ## Implemenetation Guide
 ![Screenshot 2023-12-17 at 12 45 52 (2)](https://github.com/jemmaj24/CFG-Data-Group6/assets/31040598/95b2b4d0-df88-45ea-8320-1dc70440465a)
 
